@@ -1,6 +1,8 @@
 # Smallsh
 
-Smallsh will implement a command line interface similar to well-known shells, such as bash. Your program will
+Smallsh will implement a command line interface similar to well-known shells, such as bash. 
+
+This program will:
 
 Print an interactive input prompt
 
